@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "description": "A game of solitaire",
-  "repository": "https://github.com/Heucles/solitaire-systemjs-course",
+  "repository": "https://github.com/viswanath11/solitaire-systemjs-course",
   "license": "MIT",
   "dependencies": {
     "angular": "1.2.28",
