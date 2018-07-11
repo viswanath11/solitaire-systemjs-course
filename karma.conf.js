@@ -24,7 +24,7 @@ module.exports = function (config) {
 
     frameworks: ["jasmine"],
 
-    browsers: ["Chrome", "Firefox"],
+    browsers: ["chrome", "firefox"],
 
     reporters: ['progress', 'junit'],
 
